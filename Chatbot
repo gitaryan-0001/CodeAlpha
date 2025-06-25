@@ -1,0 +1,18 @@
+while True:
+    user_input = input("You: ").lower()
+
+    if user_input == "hello":
+        print("Bot: Hi!")
+    elif user_input == "how are you":
+        print("Bot: I'm fine, thanks!")
+    elif user_input == "bye":
+        print("Bot: Goodbye!")
+           
+    elif user_input == "what's your name":
+        print("Bot: I'm PythonBot.")
+    
+    elif user_input == "what can you do":
+        print("Bot: I can chat with you and keep you company!")
+        
+        
+    
